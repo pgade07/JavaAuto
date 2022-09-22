@@ -14,6 +14,8 @@ public class Constructor
 	  {
 		System.out.println(s);
 	  }
+//public void method()
+//{System.out.println("this is method");}
 	public static void main(String[] args) 
 	 {
 	  new Constructor(45,2.5f);
